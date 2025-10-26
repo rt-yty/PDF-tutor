@@ -57,8 +57,8 @@ K_DEFAULT=4
 # --- Опциональные переменные ---
 
 # Директория для хранения загруженных PDF и индекса FAISS
-# DATA_DIR="app/data"
-# INDEX_PATH="app/data/faiss_index"
+DATA_DIR="app/data"
+INDEX_PATH="app/data/faiss_index"
 
 ```
 ### 2. Запуск с помощью Docker
